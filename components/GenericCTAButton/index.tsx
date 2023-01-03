@@ -13,7 +13,7 @@ export const GenericCTAStyles = `
 
   text-2xl
   font-bold
-  text-stone-700
+  text-stone-900
 
   hover:from-orange-500
   hover:to-amber-500
