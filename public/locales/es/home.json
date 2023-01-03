@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "Bienvenido a Nuestra Comunidad Cuántica",
+    "description": "Somos un grupo de estudiantes que desarrolla proyectos educativos en computación cuántica, de código libre.",
+    "ctaText": "Haz click para ver más"
+  },
+  "main": {
+    "title": "Aprende los Fundamentos de la Computación Cuántica con Qiskit",
+    "description": "El curso elaborará sobre temas avanzados de gran interés para físicos, científicos de la computación e ingenieros, a nivel de pregrado.",
+    "ctaText": "Ver curso"
+  },
+  "blog": {
+    "title": "Últimos Artículos del Blog",
+    "subtitle": "Mira todos nuestros artículos aquí",
+    "ctaText": "Ir al blog"
+  },
+  "community": {
+    "github": {
+      "title": "Únete a nuestra organización en GitHub",
+      "description": "Somos una comunidad muy abierta, expectante por ver tus contribuciones a la educación en computación cuántica. Puedes ser parte de la segunda revolución cuántica en Latam con nosotros.",
+      "ctaText": "Empezar a contribuir"
+    },
+    "twitch": {
+      "title": "Sigue nuestras sesiones en vivo",
+      "description": "Únete a nuestras sesiones de profundización en vivo, todos los Domingos en la tarde. Discutimos temas avanzados de computación, mecánica cuántica y teoría de la información, así como la intersección de estas áreas.",
+      "ctaText": "Unirse en twitch"
+    },
+    "discord": {
+      "title": "Interactúa con nosotros en Discord",
+      "description": "Conoce estudiantes colombianos y comparte tu conocimiento en un entorno seguro e inclusivo. Al unirte a nuestro discord, recibirás notificaciones sobre nuestros últimos eventos",
+      "ctaText": "Unirse en Discord"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "Welcome to Our Quantum Community",
+    "description": "We are a colombian student group that carries out educational open source projects in quantum computing.",
+    "ctaText": "Click here to see more"
+  },
+  "main": {
+    "title": "Learn Quantum Computing Fundamentals with Qiskit",
+    "description": "It is expected to elaborate on important advanced topics of high interest for physics, computer science and engineering students, at an undergraduate level.",
+    "ctaText": "See course"
+  },
+  "blog": {
+    "title": "Latest Blog Posts",
+    "subtitle": "Check out all our posts here",
+    "ctaText": "Go to blog" 
+  },
+  "community": {
+    "github": {
+      "title": "Join our GitHub Organization",
+      "description": "We are a very open community, eager to see your contributions to quantum computing education. You can be a part of the second quantum revolution in Latam with our group.",
+      "ctaText": "Start contributing"
+    },
+    "twitch": {
+      "title": "Follow our live sessions",
+      "description": "Join our live in-depth sessions in twitch all sunday evenings. We discuss advanced topics in computer science, quantum mechanics, quantum computing and the intersection of these areas.",
+      "ctaText": "Join us in twitch"
+    },
+    "discord": {
+      "title": "Interact with us in Discord",
+      "description": "Meet students from Colombia, and share your knowledge in a very safe and open environment. By joining our discord, you will receive notifications about our latest events.",
+      "ctaText": "Join our discord"
+    }
+  }
+}
